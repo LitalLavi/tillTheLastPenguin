@@ -7817,7 +7817,7 @@ p.nominalBounds = new cjs.Rectangle(-11.4,-317,253.6,500.6);
 		//משתנה לאינטרוול
 		var countTimer;
 		
-		createjs.Sound.registerSound("/sounds/CorrectAnswerCut.mp3", "CorrectAnswer");
+		createjs.Sound.registerSound("sounds/CorrectAnswerCut.mp3", "CorrectAnswer");
 		
 		forCombo();
 		function forCombo() { //הוספת הקומבו לבמה
